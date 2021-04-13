@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b020707e.chunk.css",
+    "main.js": "/static/js/main.981bb9f1.chunk.js",
+    "main.js.map": "/static/js/main.981bb9f1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7b02b4b5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7b02b4b5.js.map",
+    "static/js/2.91b4f496.chunk.js": "/static/js/2.91b4f496.chunk.js",
+    "static/js/2.91b4f496.chunk.js.map": "/static/js/2.91b4f496.chunk.js.map",
+    "static/js/3.216b6cfd.chunk.js": "/static/js/3.216b6cfd.chunk.js",
+    "static/js/3.216b6cfd.chunk.js.map": "/static/js/3.216b6cfd.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ecf8ee843895c99388712c49e52dd092.js": "/precache-manifest.ecf8ee843895c99388712c49e52dd092.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.b020707e.chunk.css.map": "/static/css/main.b020707e.chunk.css.map",
+    "static/js/2.91b4f496.chunk.js.LICENSE.txt": "/static/js/2.91b4f496.chunk.js.LICENSE.txt",
+    "static/media/avatar.svg": "/static/media/avatar.81899e18.svg",
+    "static/media/cabin.png": "/static/media/cabin.56ec4ee7.png",
+    "static/media/cake.png": "/static/media/cake.a29c0b43.png",
+    "static/media/card.png": "/static/media/card.dd913226.png",
+    "static/media/circus.png": "/static/media/circus.e27c88e5.png",
+    "static/media/favicon.ico": "/static/media/favicon.556f31ac.ico",
+    "static/media/game.png": "/static/media/game.107d31e8.png",
+    "static/media/safe.png": "/static/media/safe.7dfdcf55.png",
+    "static/media/submarine.png": "/static/media/submarine.8fad4ff9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b02b4b5.js",
+    "static/js/2.91b4f496.chunk.js",
+    "static/css/main.b020707e.chunk.css",
+    "static/js/main.981bb9f1.chunk.js"
+  ]
+}
