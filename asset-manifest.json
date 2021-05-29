@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.b17698ae.chunk.css",
-    "main.js": "/static/js/main.85de2c88.chunk.js",
-    "main.js.map": "/static/js/main.85de2c88.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.7b02b4b5.js",
-    "runtime-main.js.map": "/static/js/runtime-main.7b02b4b5.js.map",
-    "static/js/2.91b4f496.chunk.js": "/static/js/2.91b4f496.chunk.js",
-    "static/js/2.91b4f496.chunk.js.map": "/static/js/2.91b4f496.chunk.js.map",
-    "static/js/3.216b6cfd.chunk.js": "/static/js/3.216b6cfd.chunk.js",
-    "static/js/3.216b6cfd.chunk.js.map": "/static/js/3.216b6cfd.chunk.js.map",
+    "main.js": "/static/js/main.41c614a2.chunk.js",
+    "main.js.map": "/static/js/main.41c614a2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.13de31b5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.13de31b5.js.map",
+    "static/js/2.28f4fa48.chunk.js": "/static/js/2.28f4fa48.chunk.js",
+    "static/js/2.28f4fa48.chunk.js.map": "/static/js/2.28f4fa48.chunk.js.map",
+    "static/js/3.d94a8e66.chunk.js": "/static/js/3.d94a8e66.chunk.js",
+    "static/js/3.d94a8e66.chunk.js.map": "/static/js/3.d94a8e66.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.6eecee3fc1c2ab68dbeb4d95773fd0c2.js": "/precache-manifest.6eecee3fc1c2ab68dbeb4d95773fd0c2.js",
+    "precache-manifest.ff680960706a3fd75aab662e1d9b9ae9.js": "/precache-manifest.ff680960706a3fd75aab662e1d9b9ae9.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.b17698ae.chunk.css.map": "/static/css/main.b17698ae.chunk.css.map",
-    "static/js/2.91b4f496.chunk.js.LICENSE.txt": "/static/js/2.91b4f496.chunk.js.LICENSE.txt",
+    "static/js/2.28f4fa48.chunk.js.LICENSE.txt": "/static/js/2.28f4fa48.chunk.js.LICENSE.txt",
     "static/media/avatar.svg": "/static/media/avatar.81899e18.svg",
     "static/media/cabin.png": "/static/media/cabin.56ec4ee7.png",
     "static/media/cake.png": "/static/media/cake.a29c0b43.png",
@@ -25,9 +25,9 @@
     "static/media/submarine.png": "/static/media/submarine.8fad4ff9.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.7b02b4b5.js",
-    "static/js/2.91b4f496.chunk.js",
+    "static/js/runtime-main.13de31b5.js",
+    "static/js/2.28f4fa48.chunk.js",
     "static/css/main.b17698ae.chunk.css",
-    "static/js/main.85de2c88.chunk.js"
+    "static/js/main.41c614a2.chunk.js"
   ]
 }
